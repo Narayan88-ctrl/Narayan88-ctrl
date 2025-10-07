@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Narayan Ranabhat  
 
-<!--
-**Narayan88-ctrl/Narayan88-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧 **Code DJ / AI Mix-Master Engineer**  
+💻 **Creative Technologist | Audio Engineer | Music Entrepreneur**  
+📍 Gebenstorf, Aargau, Switzerland  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎶 What I Do
+I merge **music, code, and intelligence** to build expressive production systems.  
+My focus areas:
+
+- 🧠 **AI-Driven Mixing & Mastering** – Python + Logic Pro automation  
+- 🎛️ **Code DJ Performance** – Real-time control using IAC MIDI + Boss RC-600  
+- 💼 **Audio Engineering Services** – Stems, Dolby Atmos, mastering, radio prep  
+- 🧮 **Accounting & Admin Systems** – Studio finance tracking, project structure  
+- 🎓 **Teaching & Workshops** – Code DJ & automation for producers and artists  
+
+---
+
+### 💡 Core Projects
+#### 🪄 [Code DJ System](https://github.com/narayanmaster/chat-to-logic)
+Automates Logic Pro mixing using Python scripts and MIDI CC.  
+> _“When code becomes rhythm, even silence starts to dance.”_
+
+```bash
+python3 poke_cc.py 1 20 110    # Volume control
+python3 logic_mixer.py scene dg_drop
