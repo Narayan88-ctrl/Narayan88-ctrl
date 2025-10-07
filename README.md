@@ -26,3 +26,9 @@ Automates Logic Pro mixing using Python scripts and MIDI CC.
 ```bash
 python3 poke_cc.py 1 20 110    # Volume control
 python3 logic_mixer.py scene dg_drop
+## 🤝 Collaboration & Live Performance
+I’m open for collaborations, festival showcases, and AI-audio workshops.
+
+If you’re a festival, radio, or studio interested in exploring AI-driven mixing,
+please reach out at [narayanranabhat777@gmail.com](mailto:narayanranabhat777@gmail.com).
+
