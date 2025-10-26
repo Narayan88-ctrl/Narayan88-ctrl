@@ -1,38 +1,66 @@
-# 👋 Hi, I'm Narayan Ranabhat  
+# 🌍 Narayan Ranabhat — Building CodeDJ & AI Minister  
 
-🎧 **Code DJ / AI Mix-Master Engineer**  
-💻 **Creative Technologist | Audio Engineer | Admin & Accounting Automation Expert**  
-📍 Gebenstorf, Aargau, Switzerland  
-
----
-
-## 🎶 About Me
-I blend **music, code, and intelligence** to create expressive systems for mixing, mastering, and automation.  
-As the creator of **Code DJ**, I build tools that connect Logic Pro X, Python, and MIDI to craft a new way of performing and producing music — where **code becomes rhythm**.
-
-Alongside my creative work, I also support companies and studios with **administration and accounting automation**, bringing structure, precision, and efficiency into daily operations.
+👋 Namaste! I’m **Narayan**, a creator merging **music, AI, and social innovation**.  
+My vision is to build systems where **creativity and transparency** flow together —  
+from automated music mixing to digital governance for Nepal.
 
 ---
 
-## 💡 Core Areas
+## 🏛️ AI Minister — Transparent Governance with AI  
+**Goal:** To help government and citizens make data-driven, corruption-free decisions.  
 
-| Domain | Description |
-|---------|--------------|
-| 🎛️ **AI Audio Automation** | Real-time Logic Pro control via Python + MIDI |
-| 🎚️ **Mixing & Mastering** | Multi-stem mastering, Dolby Atmos, radio-ready tracks |
-| 🧮 **Admin & Accounting Automation** | Financial data organization, Excel/Python reporting |
-| 💼 **Workflow Optimization** | System setup, digital documentation, data management |
-| 🎓 **Workshops & Training** | Teaching Code DJ and creative automation for producers |
+🔹 Real-time civic dashboard for budgets, progress, and ethics.  
+🔹 AI-assisted analysis of development data & public reports.  
+🔹 Designed for localization — Nepali/English interface.  
+
+**Current Status:**  
+🧠 Engine & data models → 🔒 Private for IP protection  
+🌐 Frontend site → [ai-minister-site (public)](https://github.com/Narayan88-ctrl/ai-minister-site)  
+📽️ Demo → [narayanmaster.com](https://narayanmaster.com)
 
 ---
 
-## 🪄 Featured Project — *Code DJ System*
+## 🎧 CodeDJ — The AI-Driven Music Engine  
+**Goal:** Automate studio mixing & live DJ performance through Python + Logic Pro.  
 
-```bash
-chat-to-logic/
-├── poke_cc.py          # Send custom CC messages to Logic Pro
-├── logic_mixer.py      # Scene-based mixing automation
-├── mixradio.py         # Radio-prep mastering chain
-├── mix.yaml            # Config for CC maps and bus routing
-├── scenes/             # Ready-to-load mixing scenes
-└── docs/               # Documentation and setup guide
+🔹 MIDI + OSC routing for cross-fading, FX, and mastering.  
+🔹 10-min and 1-hour live show automation.  
+🔹 Creative bridge between code, sound, and performance.  
+
+**Current Status:**  
+⚙️ Engine → 🔒 [codeDJ_engine (private)](https://github.com/Narayan88-ctrl/codeDJ_engine)  
+🎥 Demo & documentation → coming soon on [narayanmaster.com](https://narayanmaster.com)
+
+---
+
+## 💡 Philosophy
+> *“Technology should sing — not just compute.”*  
+> *“Governance should be transparent — not just efficient.”*
+
+---
+
+## 🧭 Vision
+| Field | Mission | Impact |
+|--------|----------|--------|
+| 🎧 **Music + AI** | Bring professional mixing & live automation to everyone | Democratize creative tech |
+| 🏛️ **Governance + AI** | Use transparent algorithms for data-based policy | Reduce corruption & empower citizens |
+| 🌐 **Education** | Share open knowledge about AI ethics & creative coding | Inspire young innovators |
+
+---
+
+## 🛡️ Intellectual Property & Ethics
+- Core engines kept **private** for protection  
+- Public demos & architecture available for reviewers  
+- **Data ethics:** transparency, bias checks, audit logs  
+
+---
+
+## 📬 Contact
+🌐 [narayanmaster.com](https://narayanmaster.com)  
+✉️ narayanranabhat@... (your contact email)  
+🎥 [YouTube / Demo Channel](#) (optional)  
+💼 [LinkedIn / Portfolio](#) (optional)
+
+---
+
+> _“Between art and algorithm, there’s a rhythm called Narayan.”_
