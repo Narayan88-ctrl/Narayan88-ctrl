@@ -1,66 +1,63 @@
-# 🌍 Narayan Ranabhat — Building CodeDJ & AI Minister  
+# Narayan Ranabhat
 
-👋 Namaste! I’m **Narayan**, a creator merging **music, AI, and social innovation**.  
-My vision is to build systems where **creativity and transparency** flow together —  
-from automated music mixing to digital governance for Nepal.
+AI Engineer • Startup Builder • Civic Tech Founder  
+Based in Switzerland 🇨🇭
 
----
-
-## 🏛️ AI Minister — Transparent Governance with AI  
-**Goal:** To help government and citizens make data-driven, corruption-free decisions.  
-
-🔹 Real-time civic dashboard for budgets, progress, and ethics.  
-🔹 AI-assisted analysis of development data & public reports.  
-🔹 Designed for localization — Nepali/English interface.  
-
-**Current Status:**  
-🧠 Engine & data models → 🔒 Private for IP protection  
-🌐 Frontend site → [ai-minister-site (public)](https://github.com/Narayan88-ctrl/ai-minister-site)  
-📽️ Demo → [narayanmaster.com](https://narayanmaster.com)
+I build **production-grade AI systems** that turn ideas into real, deployable software — with a focus on **automation, transparency, and real-world impact**.
 
 ---
 
-## 🎧 CodeDJ — The AI-Driven Music Engine  
-**Goal:** Automate studio mixing & live DJ performance through Python + Logic Pro.  
+## 🚀 Current Projects
 
-🔹 MIDI + OSC routing for cross-fading, FX, and mastering.  
-🔹 10-min and 1-hour live show automation.  
-🔹 Creative bridge between code, sound, and performance.  
+### 🏗️ N-Builder — AI Startup Factory
+**Goal:** Automatically generate full-stack SaaS products from plain language.
 
-**Current Status:**  
-⚙️ Engine → 🔒 [codeDJ_engine (private)](https://github.com/Narayan88-ctrl/codeDJ_engine)  
-🎥 Demo & documentation → coming soon on [narayanmaster.com](https://narayanmaster.com)
+**What it does:**
+- Converts product ideas → backend + frontend + database
+- FastAPI + React + Postgres
+- Multi-agent orchestration (planner, builder, tester, auto-heal)
+- Designed for real deployment (not demos)
 
----
-
-## 💡 Philosophy
-> *“Technology should sing — not just compute.”*  
-> *“Governance should be transparent — not just efficient.”*
+**Status:**  
+Core engine private (IP protection)  
+Public components & demos coming soon
 
 ---
 
-## 🧭 Vision
-| Field | Mission | Impact |
-|--------|----------|--------|
-| 🎧 **Music + AI** | Bring professional mixing & live automation to everyone | Democratize creative tech |
-| 🏛️ **Governance + AI** | Use transparent algorithms for data-based policy | Reduce corruption & empower citizens |
-| 🌐 **Education** | Share open knowledge about AI ethics & creative coding | Inspire young innovators |
+### 🏛️ AI Minister — Transparent Governance with AI
+**Goal:** Help governments and citizens make data-driven, corruption-resistant decisions.
+
+**Features:**
+- Public dashboards for budgets, progress, and accountability
+- AI analysis of government reports & development data
+- Localization-first (Nepali / English)
+
+**Links:**
+- Frontend (public): https://github.com/narayan88-ctrl/ai-minister-site
 
 ---
 
-## 🛡️ Intellectual Property & Ethics
-- Core engines kept **private** for protection  
-- Public demos & architecture available for reviewers  
-- **Data ethics:** transparency, bias checks, audit logs  
+## 🧠 Tech Stack
+
+**Backend**
+- Python, FastAPI
+- Postgres, SQLAlchemy
+- Docker, REST APIs
+
+**Frontend**
+- React, Vite
+- Clean component architecture
+
+**AI / Systems**
+- Multi-agent orchestration
+- API-driven execution
+- Auto-debug & self-healing pipelines
 
 ---
 
-## 📬 Contact
-🌐 [narayanmaster.com](https://narayanmaster.com)  
-✉️ narayanranabhat@... (your contact email)  
-🎥 [YouTube / Demo Channel](#) (optional)  
-💼 [LinkedIn / Portfolio](#) (optional)
+## 📌 Engineering Principles
 
----
-
-> _“Between art and algorithm, there’s a rhythm called Narayan.”_
+- Build real systems, not slides
+- Automation over manual workflows
+- Transparency by design
+- Ship fast, fix faster
